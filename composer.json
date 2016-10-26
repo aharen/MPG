@@ -1,0 +1,21 @@
+{
+    "name": "aharen/mpg",
+    "description": "Maldives Payment Gateway (MPG) by Bank of Maldives",
+    "keywords": ["maldives", "payment", "gateway", "mpg", "bank"],
+    "type": "package",
+    "require": {
+        "php": "^5.1.0",
+        "symfony/http-foundation": "^3.1"
+    },
+    "license": "MIT",
+    "authors": [{
+        "name": "Ahmed Khusaam",
+        "email": "hello@khusaam.com"
+    }],
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {
+            "aharen\\": "src/"
+        }
+    }
+}
