@@ -110,7 +110,7 @@ class MPG
     {
         switch ($code) {
             case 1:
-                'Processed';
+                return 'Payment Processed';
                 break;
 
             case 2:
