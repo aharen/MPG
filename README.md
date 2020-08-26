@@ -1,3 +1,10 @@
+
+# DEPRICATED:
+
+This package is no longer updated, please consider using [https://github.com/aharen/Pay](https://github.com/aharen/Pay)
+
+---
+
 # MPG
 Maldives Payment Gateway (MPG) by Bank of Maldives
 
